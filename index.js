@@ -1,7 +1,7 @@
 
 var https = require('https')
 var moment = require('moment')
-const PORT = process.env.PORT || 5000
+const PORT = process.env.PORT || 5050
 
 var server = https.createServer()
 
@@ -30,11 +30,6 @@ server.on('request',(req,res)=>{
   res.end(JSON.stringify(displayDate))
 })
 
-function parseDate(dateString){
   
-
-}  
-
-
 
 server.listen(PORT)
