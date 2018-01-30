@@ -1,0 +1,14 @@
+{
+  "name": "timestamp_microservice_freecodecamp",
+  "version": "1.0.0",
+  "description": "First FreeCodeCamp Backend Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcus",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.20.1"
+  }
+}
