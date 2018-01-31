@@ -1,6 +1,6 @@
 # Timestamp Microservice
 
-## Project build according to specifications of the freecodecamp Timestamp Microservice API Project.
+## Project built according to specifications of the freecodecamp Timestamp Microservice API Project.
 Assignment description available here: [https://www.freecodecamp.org/challenges/timestamp-microservice](https://www.freecodecamp.org/challenges/timestamp-microservice)
 
 
