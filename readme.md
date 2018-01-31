@@ -5,5 +5,5 @@ Assignment description available here: [https://www.freecodecamp.org/challenges/
 
 
 ## Personal Touches
-*I designed the project to be as minimalistic as possible. I am using only node.js, no express.js.
+* I designed the project to be as minimalistic as possible. I am using only node.js, no express.js.
 * I am using the the Moment.js library to parse the input date.
